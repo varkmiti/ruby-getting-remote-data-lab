@@ -36,8 +36,8 @@ of data converted from the response of that request.
 The tests in this lab will use your code to send a request for some JSON data,
 located at
 [https://learn-co-curriculum.github.io/json-site-example/endpoints/people.json][].
-Read the test error messages for additional as you work for additional
-information. Don't forget to require the necessary Ruby modules and classes!
+Read the test error messages as you work for additional information. Don't forget 
+to require the necessary Ruby modules and classes!
 
 [https://learn-co-curriculum.github.io/json-site-example/endpoints/people.json]: https://learn-co-curriculum.github.io/json-site-example/endpoints/people.json
 
